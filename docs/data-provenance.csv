@@ -1,0 +1,601 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+P001,nomorPerkara,505/Pid.Sus/2025/PN Ptk,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P001,pengadilan,Pengadilan Negeri Pontianak,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P001,tanggalPutusan,2025-10-27,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P001,jenisNarkotika,sabu,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P001,beratBarangBuktiGram,0.20,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P001,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P001,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P001,tuntutanBulan,108,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P001,vonisBulan,96,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P001,dendaRupiah,1000000000,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P001,keadaanMemberatkan,Tidak mendukung program pemerintah; dapat merusak masa depan generasi muda; pernah dihukum,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P001,keadaanMeringankan,Sopan di persidangan dan mengakui perbuatan; berjanji tidak mengulangi,putusan_505_pid.sus_2025_pn_ptk_20261110083818.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P002,nomorPerkara,506/Pid.Sus/2025/PN Ptk,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P002,pengadilan,Pengadilan Negeri Pontianak,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P002,tanggalPutusan,2025-10-27,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P002,jenisNarkotika,sabu,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P002,beratBarangBuktiGram,0.13,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P002,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,4,TODO_NAMA,TODO_NAMA,unverified
+P002,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P002,tuntutanBulan,96,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P002,vonisBulan,84,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P002,dendaRupiah,1000000000,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P002,keadaanMemberatkan,Tidak mendukung program pemerintah; dapat merusak masa depan generasi muda,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P002,keadaanMeringankan,Sopan di persidangan dan mengakui perbuatan; berjanji tidak mengulangi; belum pernah dihukum,putusan_506_pid.sus_2025_pn_ptk_20261110083858.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P003,nomorPerkara,566/Pid.Sus/2025/PN Ptk,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P003,pengadilan,Pengadilan Negeri Pontianak,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P003,tanggalPutusan,2025-10-27,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P003,jenisNarkotika,sabu;ekstasi,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P003,beratBarangBuktiGram,12.1905,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P003,pasalDakwaan,Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P003,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P003,tuntutanBulan,108,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P003,vonisBulan,72,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P003,dendaRupiah,800000000,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P003,keadaanMemberatkan,Tidak mendukung program pemerintah dalam pemberantasan narkotika,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P003,keadaanMeringankan,Mengakui terus terang dan menyesali perbuatan,putusan_566_pid.sus_2025_pn_ptk_20261110083730.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P004,nomorPerkara,581/Pid.Sus/2025/PN Ptk,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P004,pengadilan,Pengadilan Negeri Pontianak,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P004,tanggalPutusan,2025-10-22,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P004,jenisNarkotika,sabu,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P004,beratBarangBuktiGram,20.05,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P004,pasalDakwaan,Pasal 114 ayat (2) jo Pasal 132 ayat (1) atau Pasal 112 ayat (2) jo Pasal 132 ayat (1) UU 35/2009,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P004,pasalTerbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU 35/2009,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P004,tuntutanBulan,132,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P004,vonisBulan,90,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P004,dendaRupiah,1000000000,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P004,keadaanMemberatkan,Tidak mendukung program pemerintah dalam memberantas tindak pidana narkotika,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P004,keadaanMeringankan,Belum pernah dihukum; mengakui dan menyesali perbuatan; sopan di persidangan,putusan_581_pid.sus_2025_pn_ptk_20261110083930.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P005,nomorPerkara,640/Pid.Sus/2025/PN Ptk,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P005,pengadilan,Pengadilan Negeri Pontianak,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P005,tanggalPutusan,2025-10-27,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P005,jenisNarkotika,sabu,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P005,beratBarangBuktiGram,3.80,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P005,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P005,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P005,tuntutanBulan,120,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P005,vonisBulan,108,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P005,dendaRupiah,1000000000,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P005,keadaanMemberatkan,Tidak mendukung program pemerintah; dapat merusak masa depan generasi muda,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P005,keadaanMeringankan,Sopan di persidangan dan mengakui perbuatan; berjanji tidak mengulangi; belum pernah dihukum,putusan_640_pid.sus_2025_pn_ptk_20261110083750.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,nomorPerkara,311/Pid.Sus/2025/PN Ptk,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P006,pengadilan,Pengadilan Negeri Pontianak,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P006,tanggalPutusan,2025-08-25,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P006,jenisNarkotika,sabu,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,beratBarangBuktiGram,164.47,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P006,pasalDakwaan,Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,8,TODO_NAMA,TODO_NAMA,unverified
+P006,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,tuntutanBulan,156,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P006,vonisBulan,144,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,dendaRupiah,1000000000,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P006,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya dan menyesali perbuatannya,putusan_311_pid.sus_2025_pn_ptk_20261110082628.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P007,nomorPerkara,434/Pid.Sus/2025/PN Ptk,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P007,pengadilan,Pengadilan Negeri Pontianak,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P007,tanggalPutusan,2025-08-26,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P007,jenisNarkotika,sabu,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P007,beratBarangBuktiGram,0.31,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P007,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P007,pasalTerbukti,Pasal 112 ayat (1) UU 35/2009,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P007,tuntutanBulan,72,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P007,vonisBulan,72,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P007,dendaRupiah,800000000,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P007,keadaanMemberatkan,Perbuatan terdakwa bertentangan dengan program pemerintah yang sedang gencar memberantas segala bentuk penyalahgunaan narkotika,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P007,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya; Terdakwa belum pernah dihukum,putusan_434_pid.sus_2025_pn_ptk_20261110082644.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P008,nomorPerkara,514/Pid.Sus/2025/PN Ptk,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P008,pengadilan,Pengadilan Negeri Pontianak,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P008,tanggalPutusan,2025-11-05,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P008,jenisNarkotika,sabu,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P008,beratBarangBuktiGram,107.84,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P008,pasalDakwaan,Pasal 114 (2) Juncto Pasal 132 ayat (1) Undang-Undang Republik Indonesia No 35 Tahun 2009 Tentang Narkotika,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P008,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P008,tuntutanBulan,108,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P008,vonisBulan,72,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P008,dendaRupiah,1000000000,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P008,keadaanMemberatkan,Perbuatan Terdakwa sebagai perantara dapat mengakibatkan masyarakat yang awalnya terkendala untuk mendapatkan narkotika menjadi lebih mudah mendapatkan narkotika; Perbuatan Terdakwa mendorong kerusakan pada masyarakat akibat peredaran narkotika yang semakin sulit dikendalikan,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P008,keadaanMeringankan,Terdakwa bersikap kooperatif; Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi lagi perbuatannya,putusan_514_pid.sus_2025_pn_ptk_20261110083513.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,nomorPerkara,515/Pid.Sus/2025/PN Ptk,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P009,pengadilan,Pengadilan Negeri Pontianak,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P009,tanggalPutusan,2025-11-05,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,jenisNarkotika,sabu,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P009,beratBarangBuktiGram,0,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,pasalDakwaan,Pasal 114 (2) Juncto Pasal 132 ayat (1) Undang-Undang Republik Indonesia No 35 Tahun 2009 Tentang Narkotika,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P009,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,tuntutanBulan,144,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P009,vonisBulan,108,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,dendaRupiah,1000000000,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P009,keadaanMemberatkan,Perbuatan Terdakwa sebagai perantara dapat mengakibatkan masyarakat yang awalnya terkendala untuk mendapatkan narkotika menjadi lebih mudah mendapatkan narkotika; Perbuatan Terdakwa mendorong kerusakan pada masyarakat akibat peredaran narkotika yang semakin sulit dikendalikan,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P009,keadaanMeringankan,Terdakwa bersikap kooperatif; Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi lagi perbuatannya,putusan_515_pid.sus_2025_pn_ptk_20261110083539.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P010,nomorPerkara,549/Pid.Sus/2025/PN Ptk,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P010,pengadilan,Pengadilan Negeri Pontianak,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P010,tanggalPutusan,2025-11-10,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P010,jenisNarkotika,sabu;ekstasi,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P010,beratBarangBuktiGram,302.68,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P010,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P010,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P010,tuntutanBulan,108,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P010,vonisBulan,84,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P010,dendaRupiah,1000000000,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P010,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Terdakwa sudah pernah dihukum,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P010,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_549_pid.sus_2025_pn_ptk_20261110083001.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P011,nomorPerkara,550/Pid.Sus/2025/PN Ptk,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P011,pengadilan,Pengadilan Negeri Pontianak,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P011,tanggalPutusan,2025-11-10,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P011,jenisNarkotika,sabu;ekstasi,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P011,beratBarangBuktiGram,0,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P011,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P011,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P011,tuntutanBulan,96,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P011,vonisBulan,72,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P011,dendaRupiah,1000000000,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P011,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Terdakwa sudah pernah dihukum,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P011,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_550_pid.sus_2025_pn_ptk_20261110082924.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P012,nomorPerkara,551/Pid.Sus/2025/PN Ptk,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P012,pengadilan,Pengadilan Negeri Pontianak,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P012,tanggalPutusan,2025-11-10,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P012,jenisNarkotika,sabu;ekstasi,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,8,TODO_NAMA,TODO_NAMA,unverified
+P012,beratBarangBuktiGram,0,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P012,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P012,pasalTerbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU 35/2009,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P012,tuntutanBulan,96,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P012,vonisBulan,72,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P012,dendaRupiah,1000000000,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P012,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P012,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_551_pid.sus_2025_pn_ptk_20261110083242.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P013,nomorPerkara,552/Pid.Sus/2025/PN Ptk,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P013,pengadilan,Pengadilan Negeri Pontianak,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P013,tanggalPutusan,2025-11-10,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P013,jenisNarkotika,sabu;ekstasi,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P013,beratBarangBuktiGram,0,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P013,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P013,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P013,tuntutanBulan,108,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P013,vonisBulan,84,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P013,dendaRupiah,1000000000,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P013,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Terdakwa sudah pernah dihukum untuk perkara narkotika,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P013,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_552_pid.sus_2025_pn_ptk_20261110083318.pdf,34,TODO_NAMA,TODO_NAMA,unverified
+P014,nomorPerkara,556/Pid.Sus/2025/PN Ptk,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P014,pengadilan,Pengadilan Negeri Pontianak,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P014,tanggalPutusan,2025-11-06,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P014,jenisNarkotika,sabu,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P014,beratBarangBuktiGram,87.73,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P014,pasalDakwaan,Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P014,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P014,tuntutanBulan,120,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P014,vonisBulan,84,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P014,dendaRupiah,1000000000,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P014,keadaanMemberatkan,Pernah dipidana dalam perkara narkotika 263/Pid.Sus/2021/PN Sag (5 tahun 6 bulan); bertentangan dengan program pemberantasan peredaran gelap dan penyalahgunaan narkotika; merusak fisik dan mental orang lain,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P014,keadaanMeringankan,Terdakwa tulang punggung keluarga,putusan_556_pid.sus_2025_pn_ptk_20261110083706.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P015,nomorPerkara,602/Pid.Sus/2025/PN Ptk,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P015,pengadilan,Pengadilan Negeri Pontianak,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P015,tanggalPutusan,2025-11-10,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P015,jenisNarkotika,sabu,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P015,beratBarangBuktiGram,2.25,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P015,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P015,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P015,tuntutanBulan,84,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P015,vonisBulan,84,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P015,dendaRupiah,1000000000,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P015,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan Narkotika; Perbuatan Terdakwa dapat merusak masa depan generasi muda,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P015,keadaanMeringankan,Terdakwa bersikap sopan dipersidangan dan mengakui perbuatannya; Terdakwa berjanji tidak akan mengulangi perbuatannya kembali; Terdakwa belum pernah dihukum,putusan_602_pid.sus_2025_pn_ptk_20261110083202.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P016,nomorPerkara,620/Pid.Sus/2025/PN Ptk,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P016,pengadilan,Pengadilan Negeri Pontianak,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P016,tanggalPutusan,2025-11-07,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,70,TODO_NAMA,TODO_NAMA,unverified
+P016,jenisNarkotika,sabu,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,beratBarangBuktiGram,97.15,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P016,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,tuntutanBulan,96,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P016,vonisBulan,72,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,dendaRupiah,1000000000,putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,keadaanMemberatkan,Perbuatan para Terdakwa tidak mendukung program Pemerintah yang sedang gencar memberantas peredaran gelap Narkoba; Perbuatan para Terdakwa dapat merusak generasi penerus bangsa; Terdakwa II pernah dipidana penjara 10 tahun 2 bulan dalam perkara Narkotika (2017),putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P016,keadaanMeringankan,"Para Terdakwa merasa bersalah, menyesali perbuatannya, dan berjanji tidak akan mengulangi lagi; Para Terdakwa bersikap sopan dan berterus terang di persidangan; Para Terdakwa merupakan tulang punggung keluarga; Terdakwa I belum pernah dihukum",putusan_620_pid.sus_2025_pn_ptk_20261110082848.pdf,68,TODO_NAMA,TODO_NAMA,unverified
+P017,nomorPerkara,639/Pid.Sus/2025/PN Ptk,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P017,pengadilan,Pengadilan Negeri Pontianak,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P017,tanggalPutusan,2025-10-27,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P017,jenisNarkotika,sabu,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,beratBarangBuktiGram,0.11,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,4,TODO_NAMA,TODO_NAMA,unverified
+P017,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,tuntutanBulan,96,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P017,vonisBulan,84,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,dendaRupiah,1000000000,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan Narkotika; Perbuatan Terdakwa dapat merusak masa depan generasi muda,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P017,keadaanMeringankan,Terdakwa bersikap sopan dipersidangan dan mengakui perbuatannya; Terdakwa berjanji tidak akan mengulangi perbuatannya kembali; Terdakwa belum pernah dihukum,putusan_639_pid.sus_2025_pn_ptk_20261110083721.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P018,nomorPerkara,641/Pid.Sus/2025/PN Ptk,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P018,pengadilan,Pengadilan Negeri Pontianak,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P018,tanggalPutusan,2025-11-10,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P018,jenisNarkotika,sabu,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P018,beratBarangBuktiGram,101.68,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P018,pasalDakwaan,Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,8,TODO_NAMA,TODO_NAMA,unverified
+P018,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P018,tuntutanBulan,108,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P018,vonisBulan,84,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P018,dendaRupiah,1000000000,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P018,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika; Terdakwa sudah pernah dipidana dalam perkara tindak pidana Narkotika,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P018,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya dan menyesali perbuatannya,putusan_641_pid.sus_2025_pn_ptk_20261110083037.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P019,nomorPerkara,678/Pid.Sus/2025/PN Ptk,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P019,pengadilan,Pengadilan Negeri Pontianak,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P019,tanggalPutusan,2025-11-24,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,38,TODO_NAMA,TODO_NAMA,unverified
+P019,jenisNarkotika,sabu,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,beratBarangBuktiGram,2962.81,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P019,pasalTerbukti,Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,tuntutanBulan,180,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P019,vonisBulan,216,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,dendaRupiah,1000000000,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung upaya pemerintah dalam memberantas penyalahgunaan dan peredaran gelap narkotika; Perbuatan terdakwa dapat merusak masa depan generasi muda; Terdakwa pernah dihukum dalam perkara pencurian,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P019,keadaanMeringankan,Terdakwa sopan di persidangan; Terdakwa menyesal dan berjanji tidak akan mengulangi kembali,putusan_678_pid.sus_2025_pn_ptk_20261110082832.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,nomorPerkara,679/Pid.Sus/2025/PN Ptk,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P020,pengadilan,Pengadilan Negeri Pontianak,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P020,tanggalPutusan,2025-11-24,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,37,TODO_NAMA,TODO_NAMA,unverified
+P020,jenisNarkotika,sabu,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,beratBarangBuktiGram,2962.81,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) atau Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P020,pasalTerbukti,Pasal 112 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,tuntutanBulan,192,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P020,vonisBulan,216,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,dendaRupiah,1000000000,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P020,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung upaya pemerintah dalam memberantas penyalahgunaan dan peredaran gelap narkotika; Perbuatan terdakwa dapat merusak masa depan generasi muda; Terdakwa pernah dihukum dalam perkara Narkotika,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P020,keadaanMeringankan,Terdakwa sopan di persidangan; Terdakwa menyesal dan berjanji tidak akan mengulangi kembali,putusan_679_pid.sus_2025_pn_ptk_20261110082820.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P021,nomorPerkara,710/Pid.Sus/2025/PN Ptk,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P021,pengadilan,Pengadilan Negeri Pontianak,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P021,tanggalPutusan,2025-12-19,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P021,jenisNarkotika,ekstasi,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P021,beratBarangBuktiGram,2.6,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P021,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P021,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P021,tuntutanBulan,84,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P021,vonisBulan,84,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P021,dendaRupiah,1000000000,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P021,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P021,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa bersikap sopan dalam persidangan; Terdakwa belum pernah dihukum,putusan_710_pid.sus_2025_pn_ptk_20261110082752.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P022,nomorPerkara,727/Pid.Sus/2025/PN Ptk,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P022,pengadilan,Pengadilan Negeri Pontianak,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P022,tanggalPutusan,2025-12-18,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P022,jenisNarkotika,sabu,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P022,beratBarangBuktiGram,3.52,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P022,pasalDakwaan,Pasal 114 ayat (1) UU RI No. 35 tahun 2009 tentang Narkotika,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P022,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P022,tuntutanBulan,72,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P022,vonisBulan,84,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P022,dendaRupiah,1000000000,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P022,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam memberantas penyalahgunaan Narkotika; Perbuatan Terdakwa dapat merusak masa depan generasi muda,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P022,keadaanMeringankan,Terdakwa bersikap sopan dipersidangan dan mengakui perbuatannya; Terdakwa berjanji tidak akan mengulangi perbuatannya kembali; Terdakwa belum pernah dihukum,putusan_727_pid.sus_2025_pn_ptk_20261110082532.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P023,nomorPerkara,734/Pid.Sus/2025/PN Ptk,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P023,pengadilan,Pengadilan Negeri Pontianak,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P023,tanggalPutusan,2025-12-15,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P023,jenisNarkotika,sabu,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P023,beratBarangBuktiGram,1.28,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P023,pasalDakwaan,Pasal 114 ayat (1) atau Pasal 112 ayat (1) UU 35/2009,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P023,pasalTerbukti,Pasal 112 ayat (1) UU 35/2009,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P023,tuntutanBulan,72,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P023,vonisBulan,48,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P023,dendaRupiah,800000000,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P023,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam pemberantasan peredaran Narkotika dan Obat-obatan terlarang,putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P023,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, dan berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang di persidangan; Terdakwa belum pernah dihukum",putusan_734_pid.sus_2025_pn_ptk_20261110082808.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P024,nomorPerkara,784/Pid.Sus/2025/PN Ptk,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P024,pengadilan,Pengadilan Negeri Pontianak,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P024,tanggalPutusan,2025-12-18,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,jenisNarkotika,sabu,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,beratBarangBuktiGram,0.97,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P024,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,tuntutanBulan,84,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P024,vonisBulan,60,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,dendaRupiah,1000000000,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P024,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P024,keadaanMeringankan,Terdakwa mengaku dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_784_pid.sus_2025_pn_ptk_20261110082448.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P025,nomorPerkara,232/Pid.Sus/2026/PN Ptk,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P025,pengadilan,Pengadilan Negeri Pontianak,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P025,tanggalPutusan,2026-07-23,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,jenisNarkotika,sabu,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,beratBarangBuktiGram,1.37,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,pasalDakwaan,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P025,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,tuntutanBulan,36,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P025,vonisBulan,24,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,dendaRupiah,0,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P025,keadaanMemberatkan,,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,-,TODO_NAMA,TODO_NAMA,unverified
+P025,keadaanMeringankan,,putusan_232_pid.sus_2026_pn_ptk_20261110082614.pdf,-,TODO_NAMA,TODO_NAMA,unverified
+P026,nomorPerkara,251/Pid.Sus/2026/PN Ptk,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P026,pengadilan,Pengadilan Negeri Pontianak,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P026,tanggalPutusan,2026-07-29,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P026,jenisNarkotika,sabu,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P026,beratBarangBuktiGram,0.95,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P026,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP),putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P026,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P026,tuntutanBulan,84,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P026,vonisBulan,60,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P026,dendaRupiah,500000000,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P026,keadaanMemberatkan,Perbuatan Terdakwa menghambat program pemerintah dalam memberantas penyalahgunaan narkotika,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P026,keadaanMeringankan,Terdakwa bersikap sopan dan berterus terang selama dalam proses persidangan; Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum dan tulang punggung keluarga,putusan_251_pid.sus_2026_pn_ptk_20261110082643.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P027,nomorPerkara,258/Pid.Sus/2026/PN Ptk,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P027,pengadilan,Pengadilan Negeri Pontianak,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P027,tanggalPutusan,2026-09-09,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P027,jenisNarkotika,sabu,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,beratBarangBuktiGram,100.87,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P027,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,tuntutanBulan,120,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P027,vonisBulan,84,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,dendaRupiah,500000000,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P027,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_258_pid.sus_2026_pn_ptk_20261110082953.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P028,nomorPerkara,259/Pid.Sus/2026/PN Ptk,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P028,pengadilan,Pengadilan Negeri Pontianak,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P028,tanggalPutusan,2026-09-09,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P028,jenisNarkotika,sabu,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P028,beratBarangBuktiGram,100.87,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P028,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P028,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P028,tuntutanBulan,72,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P028,vonisBulan,72,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P028,dendaRupiah,500000000,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P028,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P028,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_259_pid.sus_2026_pn_ptk_20261110083107.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P029,nomorPerkara,262/Pid.Sus/2026/PN Ptk,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P029,pengadilan,Pengadilan Negeri Pontianak,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P029,tanggalPutusan,2026-08-10,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,jenisNarkotika,sabu,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,beratBarangBuktiGram,0.36,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,pasalDakwaan,Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026 atau Pasal 127 ayat (1) huruf a UU 35/2009,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P029,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,tuntutanBulan,72,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P029,vonisBulan,24,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,dendaRupiah,0,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P029,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam pemberantasan penyalahgunaan Narkotika dan obat-obatan terlarang,putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P029,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang di persidangan; Terdakwa belum pernah dihukum",putusan_262_pid.sus_2026_pn_ptk_20261110082723.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P030,nomorPerkara,264/Pid.Sus/2026/PN Ptk,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P030,pengadilan,Pengadilan Negeri Pontianak,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P030,tanggalPutusan,2026-09-22,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P030,jenisNarkotika,sabu,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,beratBarangBuktiGram,4.52,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,pasalDakwaan,Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P030,pasalTerbukti,Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP),putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,tuntutanBulan,48,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P030,vonisBulan,36,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,dendaRupiah,0,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,keadaanMemberatkan,Perbuatan Terdakwa meresahkan masyarakat,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P030,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_264_pid.sus_2026_pn_ptk_20261110082239.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P031,nomorPerkara,276/Pid.Sus/2026/PN Ptk,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P031,pengadilan,Pengadilan Negeri Pontianak,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P031,tanggalPutusan,2026-09-09,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P031,jenisNarkotika,sabu,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,beratBarangBuktiGram,199.86,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,pasalDakwaan,Pasal 114 ayat (2) UU 35/2009 atau Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP),putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P031,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,tuntutanBulan,156,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P031,vonisBulan,120,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,dendaRupiah,666666000,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Terdakwa pernah dihukum,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P031,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_276_pid.sus_2026_pn_ptk_20261110083030.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P032,nomorPerkara,281/Pid.Sus/2026/PN Ptk,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P032,pengadilan,Pengadilan Negeri Pontianak,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P032,tanggalPutusan,2026-09-23,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P032,jenisNarkotika,sabu,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P032,beratBarangBuktiGram,32.93,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P032,pasalDakwaan,Pasal 114 ayat (2) UU 35/2009 atau Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP),putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,6,TODO_NAMA,TODO_NAMA,unverified
+P032,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P032,tuntutanBulan,72,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P032,vonisBulan,60,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P032,dendaRupiah,500000000,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P032,keadaanMemberatkan,Bahwa perbuatan Terdakwa menghambat program pemerintah dalam memberantas penyalahgunaan narkotika,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P032,keadaanMeringankan,Bahwa Terdakwa bersikap sopan dan berterus terang selama dalam proses persidangan; Bahwa Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi,putusan_281_pid.sus_2026_pn_ptk_20261110082252.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,nomorPerkara,282/Pid.Sus/2026/PN Ptk,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P033,pengadilan,Pengadilan Negeri Pontianak,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P033,tanggalPutusan,2026-09-08,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P033,jenisNarkotika,sabu,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,beratBarangBuktiGram,94.26,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,pasalDakwaan,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P033,pasalTerbukti,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP),putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,tuntutanBulan,156,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P033,vonisBulan,108,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,dendaRupiah,666666000,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Perbuatan Terdakwa meresahkan masyarakat,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P033,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum; Terdakwa bersikap kooperatif sehingga memudahkan jalannya persidangan,putusan_282_pid.sus_2026_pn_ptk_20261110082805.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P034,nomorPerkara,285/Pid.Sus/2026/PN Ptk,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P034,pengadilan,Pengadilan Negeri Pontianak,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P034,tanggalPutusan,2026-09-09,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,jenisNarkotika,sabu,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,beratBarangBuktiGram,991.12,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,pasalDakwaan,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P034,pasalTerbukti,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,tuntutanBulan,180,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P034,vonisBulan,120,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,dendaRupiah,600000000,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P034,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam memberantas peredaran Narkoba; Perbuatan Terdakwa dapat merusak generasi penerus bangsa,putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P034,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_285_pid.sus_2026_pn_ptk_20261110083142.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P035,nomorPerkara,292/Pid.Sus/2026/PN Ptk,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P035,pengadilan,Pengadilan Negeri Pontianak,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P035,tanggalPutusan,2026-09-09,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,33,TODO_NAMA,TODO_NAMA,unverified
+P035,jenisNarkotika,sabu,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,beratBarangBuktiGram,0.49,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P035,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,tuntutanBulan,36,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P035,vonisBulan,22,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,dendaRupiah,0,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam pemberantasan penyalahgunaan Narkotika dan obat-obatan terlarang,putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P035,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_292_pid.sus_2026_pn_ptk_20261110083258.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P036,nomorPerkara,293/Pid.Sus/2026/PN Ptk,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P036,pengadilan,Pengadilan Negeri Pontianak,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P036,tanggalPutusan,2026-09-09,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P036,jenisNarkotika,sabu,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,beratBarangBuktiGram,0.49,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P036,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,tuntutanBulan,36,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P036,vonisBulan,22,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,dendaRupiah,0,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam pemberantasan penyalahgunaan Narkotika dan obat-obatan terlarang,putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P036,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_293_pid.sus_2026_pn_ptk_20261110083218.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P037,nomorPerkara,334/Pid.Sus/2026/PN Ptk,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P037,pengadilan,Pengadilan Negeri Pontianak,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P037,tanggalPutusan,2026-09-30,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P037,jenisNarkotika,sabu;ekstasi,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,19,TODO_NAMA,TODO_NAMA,unverified
+P037,beratBarangBuktiGram,2.62,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,19,TODO_NAMA,TODO_NAMA,unverified
+P037,pasalDakwaan,,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,-,TODO_NAMA,TODO_NAMA,unverified
+P037,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009 jo. UU 1/2026,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,19,TODO_NAMA,TODO_NAMA,unverified
+P037,tuntutanBulan,0,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,-,TODO_NAMA,TODO_NAMA,unverified
+P037,vonisBulan,48,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,19,TODO_NAMA,TODO_NAMA,unverified
+P037,dendaRupiah,500000000,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,19,TODO_NAMA,TODO_NAMA,unverified
+P037,keadaanMemberatkan,Bahwa perbuatan Terdakwa menghambat program pemerintah dalam memberantas penyalahgunaan narkotika,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,18,TODO_NAMA,TODO_NAMA,unverified
+P037,keadaanMeringankan,Bahwa Terdakwa bersikap sopan dan berterus terang selama dalam proses persidangan; Bahwa Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi,putusan_334_pid.sus_2026_pn_ptk_20261110082032.pdf,18,TODO_NAMA,TODO_NAMA,unverified
+P038,nomorPerkara,335/Pid.Sus/2026/PN Ptk,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P038,pengadilan,Pengadilan Negeri Pontianak,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P038,tanggalPutusan,2026-09-08,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P038,jenisNarkotika,sabu,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P038,beratBarangBuktiGram,0,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P038,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P038,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P038,tuntutanBulan,36,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P038,vonisBulan,30,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P038,dendaRupiah,0,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P038,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P038,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum,putusan_335_pid.sus_2026_pn_ptk_20261110082917.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P039,nomorPerkara,336/Pid.Sus/2026/PN Ptk,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P039,pengadilan,Pengadilan Negeri Pontianak,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P039,tanggalPutusan,2026-09-08,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,32,TODO_NAMA,TODO_NAMA,unverified
+P039,jenisNarkotika,sabu,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P039,beratBarangBuktiGram,0.98,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P039,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. Pasal 132 ayat (1) UU 35/2009 atau Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P039,pasalTerbukti,Pasal 127 ayat (1) huruf a UU 35/2009 jo. Pasal 20 huruf c UU 1/2023 (KUHP),putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P039,tuntutanBulan,36,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P039,vonisBulan,30,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P039,dendaRupiah,0,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,31,TODO_NAMA,TODO_NAMA,unverified
+P039,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P039,keadaanMeringankan,Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum,putusan_336_pid.sus_2026_pn_ptk_20261110082841.pdf,30,TODO_NAMA,TODO_NAMA,unverified
+P040,nomorPerkara,338/Pid.Sus/2026/PN Ptk,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P040,pengadilan,Pengadilan Negeri Pontianak,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P040,tanggalPutusan,2026-09-08,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P040,jenisNarkotika,sabu,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P040,beratBarangBuktiGram,2.21,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P040,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P040,pasalTerbukti,Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P040,tuntutanBulan,48,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P040,vonisBulan,30,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P040,dendaRupiah,500000000,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P040,keadaanMemberatkan,Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika; Perbuatan Terdakwa meresahkan masyarakat,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P040,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_338_pid.sus_2026_pn_ptk_20261110082751.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P041,nomorPerkara,344/Pid.Sus/2026/PN Ptk,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P041,pengadilan,Pengadilan Negeri Pontianak,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P041,tanggalPutusan,2026-09-15,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,41,TODO_NAMA,TODO_NAMA,unverified
+P041,jenisNarkotika,sabu,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,beratBarangBuktiGram,997.83,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,pasalDakwaan,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026 atau Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP),putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P041,pasalTerbukti,Pasal 114 ayat (2) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,tuntutanBulan,192,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P041,vonisBulan,144,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,dendaRupiah,1000000000,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,keadaanMemberatkan,Perbuatan para Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P041,keadaanMeringankan,Para Terdakwa mengakui terus terang dan menyesali perbuatannya; Para Terdakwa bersikap sopan dalam persidangan,putusan_344_pid.sus_2026_pn_ptk_20261110082531.pdf,40,TODO_NAMA,TODO_NAMA,unverified
+P042,nomorPerkara,346/Pid.Sus/2026/PN Ptk,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P042,pengadilan,Pengadilan Negeri Pontianak,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P042,tanggalPutusan,2026-09-15,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P042,jenisNarkotika,sabu,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P042,beratBarangBuktiGram,44.91,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P042,pasalDakwaan,Pasal 114 ayat (2) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P042,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P042,tuntutanBulan,96,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P042,vonisBulan,90,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P042,dendaRupiah,666666000,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P042,keadaanMemberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam upaya memberantas peredaran Narkotika di Indonesia,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P042,keadaanMeringankan,Terdakwa mengakui terus terang perbuatannya; Terdakwa berjanji tidak akan mengulangi lagi perbuatannya; Terdakwa belum pernah dihukum,putusan_346_pid.sus_2026_pn_ptk_20261110082515.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P043,nomorPerkara,347/Pid.Sus/2026/PN Ptk,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P043,pengadilan,Pengadilan Negeri Pontianak,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P043,tanggalPutusan,2026-09-16,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,jenisNarkotika,sabu,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,beratBarangBuktiGram,99.51,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,pasalDakwaan,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P043,pasalTerbukti,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,tuntutanBulan,144,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P043,vonisBulan,96,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,dendaRupiah,600000000,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,29,TODO_NAMA,TODO_NAMA,unverified
+P043,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam memberantas peredaran Narkoba; Perbuatan Terdakwa dapat merusak generasi penerus bangsa,putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P043,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_347_pid.sus_2026_pn_ptk_20261105164305.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P044,nomorPerkara,351/Pid.Sus/2026/PN Ptk,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P044,pengadilan,Pengadilan Negeri Pontianak,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P044,tanggalPutusan,2026-09-16,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P044,jenisNarkotika,sabu,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P044,beratBarangBuktiGram,1.2,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P044,pasalDakwaan,Pasal 114 ayat (1) UU RI No. 35 Tahun 2009 tentang Narkotika,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P044,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P044,tuntutanBulan,84,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P044,vonisBulan,54,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P044,dendaRupiah,500000000,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P044,keadaanMemberatkan,Bahwa perbuatan Terdakwa menghambat program pemerintah dalam memberantas penyalahgunaan narkotika,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P044,keadaanMeringankan,Terdakwa bersikap sopan dan berterus terang selama dalam proses persidangan; Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulanginya lagi; Terdakwa belum pernah dihukum,putusan_351_pid.sus_2026_pn_ptk_20261110082446.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P045,nomorPerkara,352/Pid.Sus/2026/PN Ptk,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P045,pengadilan,Pengadilan Negeri Pontianak,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P045,tanggalPutusan,2026-09-08,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P045,jenisNarkotika,sabu,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P045,beratBarangBuktiGram,1.07,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P045,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 jo. UU 1/2023 (KUHP) jo. UU 1/2026,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P045,pasalTerbukti,Pasal 114 ayat (1) UU 35/2009,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P045,tuntutanBulan,84,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P045,vonisBulan,60,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P045,dendaRupiah,500000000,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P045,keadaanMemberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P045,keadaanMeringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa bersikap sopan dalam persidangan,putusan_352_pid.sus_2026_pn_ptk_20261110082738.pdf,24,TODO_NAMA,TODO_NAMA,unverified
+P046,nomorPerkara,353/Pid.Sus/2026/PN Ptk,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P046,pengadilan,Pengadilan Negeri Pontianak,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P046,tanggalPutusan,2026-09-30,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,28,TODO_NAMA,TODO_NAMA,unverified
+P046,jenisNarkotika,sabu,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,beratBarangBuktiGram,0.96,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,pasalDakwaan,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P046,pasalTerbukti,Pasal 114 ayat (1) jo. Pasal 132 ayat (1) UU 35/2009 jo. Pasal II ayat (10) dan (11) UU 1/2026,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,tuntutanBulan,72,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P046,vonisBulan,48,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,dendaRupiah,0,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam memberantas peredaran Narkoba,putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,27,TODO_NAMA,TODO_NAMA,unverified
+P046,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, dan berjanji tidak akan mengulangi lagi perbuatannya; Terdakwa bersikap sopan dan berterus terang di persidangan; Terdakwa belum pernah dihukum",putusan_353_pid.sus_2026_pn_ptk_20261110082015.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P047,nomorPerkara,362/Pid.Sus/2026/PN Ptk,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P047,pengadilan,Pengadilan Negeri Pontianak,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P047,tanggalPutusan,2026-09-16,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,jenisNarkotika,sabu,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,beratBarangBuktiGram,8.39,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,pasalDakwaan,Pasal 114 ayat (2) UU 35/2009 atau Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,7,TODO_NAMA,TODO_NAMA,unverified
+P047,pasalTerbukti,Pasal 609 ayat (2) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,tuntutanBulan,84,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P047,vonisBulan,60,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,dendaRupiah,600000000,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,36,TODO_NAMA,TODO_NAMA,unverified
+P047,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam memberantas peredaran Narkoba; Perbuatan Terdakwa dapat merusak generasi penerus bangsa,putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P047,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_362_pid.sus_2026_pn_ptk_20261110082308.pdf,35,TODO_NAMA,TODO_NAMA,unverified
+P048,nomorPerkara,380/Pid.Sus/2026/PN Ptk,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P048,pengadilan,Pengadilan Negeri Pontianak,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P048,tanggalPutusan,2026-09-17,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P048,jenisNarkotika,sabu,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P048,beratBarangBuktiGram,0.81,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P048,pasalDakwaan,Pasal 114 ayat (1) UU 35/2009 atau Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,5,TODO_NAMA,TODO_NAMA,unverified
+P048,pasalTerbukti,Pasal 609 ayat (1) huruf a UU 1/2023 (KUHP) jo. UU 1/2026,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,21,TODO_NAMA,TODO_NAMA,unverified
+P048,tuntutanBulan,60,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P048,vonisBulan,36,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P048,dendaRupiah,500000000,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P048,keadaanMemberatkan,Perbuatan Terdakwa bertentangan dengan program Pemerintah dalam memberantas peredaran Narkoba; Perbuatan Terdakwa dapat merusak generasi penerus bangsa,putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P048,keadaanMeringankan,"Terdakwa merasa bersalah, menyesali perbuatannya, serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa bersikap sopan dan berterus terang dipersidangan; Terdakwa belum pernah dihukum",putusan_380_pid.sus_2026_pn_ptk_20261110082326.pdf,20,TODO_NAMA,TODO_NAMA,unverified
+P049,nomorPerkara,315/Pid.Sus/2025/PN Ptk,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P049,pengadilan,Pengadilan Negeri Pontianak,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P049,tanggalPutusan,2025-07-14,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P049,jenisNarkotika,sabu,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P049,beratBarangBuktiGram,17.74,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P049,pasalDakwaan,Pasal 114 ayat (2) atau Pasal 112 ayat (2) UU 35/2009,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P049,pasalTerbukti,Pasal 114 ayat (2) UU 35/2009,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P049,tuntutanBulan,108,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P049,vonisBulan,72,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P049,dendaRupiah,1000000000,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,23,TODO_NAMA,TODO_NAMA,unverified
+P049,keadaanMemberatkan,Bertentangan dengan program pemerintah dalam pemberantasan peredaran narkotika; dapat merusak generasi penerus bangsa,putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P049,keadaanMeringankan,"Merasa bersalah, menyesali dan berjanji tidak mengulangi; sopan dan berterus terang di persidangan",putusan_315_pid.sus_2025_pn_ptk_20261114081538.pdf,22,TODO_NAMA,TODO_NAMA,unverified
+P050,nomorPerkara,326/Pid.Sus/2025/PN Ptk,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P050,pengadilan,Pengadilan Negeri Pontianak,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,1,TODO_NAMA,TODO_NAMA,unverified
+P050,tanggalPutusan,2025-07-14,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,26,TODO_NAMA,TODO_NAMA,unverified
+P050,jenisNarkotika,sabu,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P050,beratBarangBuktiGram,3.80,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P050,pasalDakwaan,Pasal 114 ayat (1) jo Pasal 132 ayat (1) atau Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU 35/2009,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,3,TODO_NAMA,TODO_NAMA,unverified
+P050,pasalTerbukti,Pasal 112 ayat (1) jo Pasal 132 ayat (1) UU 35/2009,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P050,tuntutanBulan,96,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,2,TODO_NAMA,TODO_NAMA,unverified
+P050,vonisBulan,84,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P050,dendaRupiah,800000000,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P050,keadaanMemberatkan,Bertentangan dengan program pemerintah dalam pemberantasan tindak pidana narkotika; dapat merusak mental masyarakat terutama generasi muda,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
+P050,keadaanMeringankan,Mengakui perbuatan di persidangan; berjanji tidak mengulangi; belum pernah dihukum,putusan_326_pid.sus_2025_pn_ptk_20261114081529.pdf,25,TODO_NAMA,TODO_NAMA,unverified
