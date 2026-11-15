@@ -1,4 +1,4 @@
-# Kontribusi Anggota – Kelompok 02
+# Kontribusi Anggota – Kelompok 15
 
 Dokumen ini mencatat kontribusi anggota dalam pengembangan project UTS Struktur Data mengenai Putusan Perkara Narkotika.
 
@@ -61,8 +61,3 @@ Daftar kontribusi disusun berdasarkan alur kerja Pull Request (PR) dan pembagian
 | 15 | `docs/contributions` | Bersama | `CONTRIBUTIONS.md` | Dokumen ringkasan kontribusi akhir |
 
 ---
-
-## Catatan Tambahan
-
-- Setiap Pull Request melalui proses review silang (peer review) yang ketat antar anggota kelompok sesuai tabel dependensi di atas.
-- Riwayat commit dan kontribusi teknis terdokumentasi secara transparan di dalam log repository GitHub kelompok.
